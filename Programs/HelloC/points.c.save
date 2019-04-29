@@ -1,0 +1,11 @@
+#include <stdio.h>
+#include <math.h>
+#include "point.h"
+
+extern int quadrant(Point pt){
+
+}
+
+extern double distance(Point pt0, Point pt1){
+
+}
